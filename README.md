@@ -4,7 +4,6 @@ I'm a passionate Full-Stack Developer with expertise in a wide range of technolo
 
 - 🔭 I’m currently working on RCS 
 - 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me about anything related to Web Development and Software Engineering
 - 📫 How to reach me: pratikhulawale18@gmail.com
 
 ## Skills
