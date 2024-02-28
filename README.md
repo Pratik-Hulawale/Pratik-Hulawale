@@ -1,5 +1,3 @@
-# Full-Stack Developer Portfolio
-
 ## Hi there, I'm Pratik Hulawale 👋
 
 I'm a passionate Full-Stack Developer with expertise in a wide range of technologies. I love crafting robust and scalable solutions to solve real-world problems. 
